@@ -1,0 +1,600 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Form version="1.3" maxVersion="1.9" type="org.netbeans.modules.form.forminfo.JFrameFormInfo">
+  <Properties>
+    <Property name="defaultCloseOperation" type="int" value="3"/>
+  </Properties>
+  <SyntheticProperties>
+    <SyntheticProperty name="formSizePolicy" type="int" value="1"/>
+    <SyntheticProperty name="generateCenter" type="boolean" value="false"/>
+  </SyntheticProperties>
+  <AuxValues>
+    <AuxValue name="FormSettings_autoResourcing" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_autoSetComponentName" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_generateFQN" type="java.lang.Boolean" value="true"/>
+    <AuxValue name="FormSettings_generateMnemonicsCode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_i18nAutoMode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_layoutCodeTarget" type="java.lang.Integer" value="1"/>
+    <AuxValue name="FormSettings_listenerGenerationStyle" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_variablesLocal" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_variablesModifier" type="java.lang.Integer" value="2"/>
+  </AuxValues>
+
+  <Layout>
+    <DimensionLayout dim="0">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" alignment="0" attributes="0">
+              <EmptySpace max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Group type="102" attributes="0">
+                      <Group type="103" groupAlignment="0" max="-2" attributes="0">
+                          <Component id="seven4" alignment="0" max="32767" attributes="0"/>
+                          <Component id="seven3" alignment="0" max="32767" attributes="0"/>
+                          <Component id="seven2" alignment="0" max="32767" attributes="0"/>
+                          <Component id="seven1" alignment="0" max="32767" attributes="0"/>
+                          <Component id="jLabel1" alignment="0" max="32767" attributes="0"/>
+                      </Group>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="0" max="-2" attributes="0">
+                          <Component id="oct1" alignment="0" max="32767" attributes="0"/>
+                          <Component id="oct2" alignment="0" max="32767" attributes="0"/>
+                          <Component id="oct3" alignment="0" max="32767" attributes="0"/>
+                          <Component id="oct4" alignment="0" max="32767" attributes="0"/>
+                          <Component id="oct5" alignment="0" max="32767" attributes="0"/>
+                          <Component id="oct6" alignment="0" max="32767" attributes="0"/>
+                          <Component id="jLabel2" max="32767" attributes="0"/>
+                      </Group>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="1" max="-2" attributes="0">
+                          <Component id="nov7" alignment="0" max="32767" attributes="0"/>
+                          <Component id="nov6" alignment="0" max="32767" attributes="0"/>
+                          <Component id="nov5" alignment="0" max="32767" attributes="0"/>
+                          <Component id="nov4" alignment="0" max="32767" attributes="0"/>
+                          <Component id="nov3" alignment="0" max="32767" attributes="0"/>
+                          <Component id="nov2" alignment="0" max="32767" attributes="0"/>
+                          <Component id="nov1" alignment="0" max="32767" attributes="0"/>
+                          <Component id="jLabel3" min="-2" pref="49" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="1" max="-2" attributes="0">
+                          <Component id="dec7" alignment="0" max="32767" attributes="0"/>
+                          <Component id="dec6" alignment="0" max="32767" attributes="0"/>
+                          <Component id="dec5" alignment="0" max="32767" attributes="0"/>
+                          <Component id="dec4" alignment="0" max="32767" attributes="0"/>
+                          <Component id="dec3" alignment="0" max="32767" attributes="0"/>
+                          <Component id="dec2" alignment="0" max="32767" attributes="0"/>
+                          <Component id="dec1" alignment="1" max="32767" attributes="0"/>
+                          <Component id="jLabel4" min="-2" pref="55" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Group type="103" groupAlignment="0" max="-2" attributes="0">
+                              <Component id="undec7" alignment="0" max="32767" attributes="0"/>
+                              <Component id="undec6" alignment="0" max="32767" attributes="0"/>
+                              <Component id="undec5" alignment="0" max="32767" attributes="0"/>
+                              <Component id="undec4" alignment="0" pref="61" max="32767" attributes="0"/>
+                              <Component id="undec3" alignment="0" max="32767" attributes="0"/>
+                              <Component id="undec2" alignment="0" max="32767" attributes="0"/>
+                              <Component id="undec1" alignment="0" max="32767" attributes="0"/>
+                              <Component id="undec8" alignment="0" min="-2" max="-2" attributes="0"/>
+                          </Group>
+                          <Component id="jLabel5" min="-2" pref="72" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Group type="103" groupAlignment="1" max="-2" attributes="0">
+                              <Component id="duo4" alignment="0" max="32767" attributes="0"/>
+                              <Component id="duo3" alignment="0" max="32767" attributes="0"/>
+                              <Component id="duo2" alignment="0" max="32767" attributes="0"/>
+                              <Component id="duo1" alignment="0" min="-2" max="-2" attributes="0"/>
+                          </Group>
+                          <Component id="jLabel6" min="-2" pref="82" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace min="0" pref="0" max="32767" attributes="0"/>
+                  </Group>
+                  <Group type="102" attributes="0">
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Component id="jLabel7" pref="413" max="32767" attributes="0"/>
+                          <Group type="102" alignment="1" attributes="0">
+                              <Component id="jButton2" min="-2" max="-2" attributes="0"/>
+                              <EmptySpace max="32767" attributes="0"/>
+                              <Component id="jButton1" min="-2" max="-2" attributes="0"/>
+                          </Group>
+                      </Group>
+                      <EmptySpace max="-2" attributes="0"/>
+                  </Group>
+              </Group>
+          </Group>
+      </Group>
+    </DimensionLayout>
+    <DimensionLayout dim="1">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" alignment="1" attributes="0">
+              <Component id="jLabel7" pref="50" max="32767" attributes="0"/>
+              <EmptySpace max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Group type="102" alignment="0" attributes="0">
+                      <Group type="103" groupAlignment="3" attributes="0">
+                          <Component id="jLabel1" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="jLabel2" alignment="3" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="3" attributes="0">
+                          <Component id="seven1" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="oct1" alignment="3" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="3" attributes="0">
+                          <Component id="oct2" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="seven2" alignment="3" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="3" attributes="0">
+                          <Component id="oct3" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="seven3" alignment="3" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Group type="102" alignment="0" attributes="0">
+                              <Component id="oct4" min="-2" max="-2" attributes="0"/>
+                              <EmptySpace max="-2" attributes="0"/>
+                              <Component id="oct5" min="-2" max="-2" attributes="0"/>
+                              <EmptySpace max="-2" attributes="0"/>
+                              <Component id="oct6" min="-2" max="-2" attributes="0"/>
+                          </Group>
+                          <Component id="seven4" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                  </Group>
+                  <Group type="102" alignment="0" attributes="0">
+                      <Component id="jLabel3" min="-2" max="-2" attributes="0"/>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Component id="nov1" min="-2" max="-2" attributes="0"/>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Component id="nov2" min="-2" max="-2" attributes="0"/>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Component id="nov3" min="-2" max="-2" attributes="0"/>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Component id="nov4" min="-2" max="-2" attributes="0"/>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Component id="nov5" min="-2" max="-2" attributes="0"/>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Component id="nov6" min="-2" max="-2" attributes="0"/>
+                  </Group>
+                  <Group type="102" alignment="0" attributes="0">
+                      <Group type="103" groupAlignment="3" attributes="0">
+                          <Component id="jLabel4" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="jLabel5" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="jLabel6" alignment="3" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Group type="102" alignment="0" attributes="0">
+                              <Group type="103" groupAlignment="0" attributes="0">
+                                  <Group type="102" alignment="0" attributes="0">
+                                      <Component id="undec1" min="-2" max="-2" attributes="0"/>
+                                      <EmptySpace max="-2" attributes="0"/>
+                                      <Component id="undec2" min="-2" max="-2" attributes="0"/>
+                                      <EmptySpace max="-2" attributes="0"/>
+                                      <Component id="undec3" min="-2" max="-2" attributes="0"/>
+                                      <EmptySpace max="-2" attributes="0"/>
+                                      <Component id="undec4" min="-2" max="-2" attributes="0"/>
+                                  </Group>
+                                  <Group type="102" alignment="0" attributes="0">
+                                      <Component id="duo1" min="-2" max="-2" attributes="0"/>
+                                      <EmptySpace max="-2" attributes="0"/>
+                                      <Component id="duo2" min="-2" max="-2" attributes="0"/>
+                                      <EmptySpace max="-2" attributes="0"/>
+                                      <Component id="duo3" min="-2" max="-2" attributes="0"/>
+                                      <EmptySpace max="-2" attributes="0"/>
+                                      <Component id="duo4" min="-2" max="-2" attributes="0"/>
+                                  </Group>
+                              </Group>
+                              <EmptySpace max="-2" attributes="0"/>
+                              <Component id="undec5" min="-2" max="-2" attributes="0"/>
+                              <EmptySpace max="-2" attributes="0"/>
+                              <Component id="undec6" min="-2" max="-2" attributes="0"/>
+                              <EmptySpace max="-2" attributes="0"/>
+                              <Component id="undec7" min="-2" max="-2" attributes="0"/>
+                          </Group>
+                          <Group type="102" alignment="0" attributes="0">
+                              <Component id="dec1" min="-2" max="-2" attributes="0"/>
+                              <EmptySpace max="-2" attributes="0"/>
+                              <Component id="dec2" min="-2" max="-2" attributes="0"/>
+                              <EmptySpace max="-2" attributes="0"/>
+                              <Component id="dec3" min="-2" max="-2" attributes="0"/>
+                              <EmptySpace max="-2" attributes="0"/>
+                              <Component id="dec4" min="-2" max="-2" attributes="0"/>
+                              <EmptySpace max="-2" attributes="0"/>
+                              <Component id="dec5" min="-2" max="-2" attributes="0"/>
+                              <EmptySpace max="-2" attributes="0"/>
+                              <Component id="dec6" min="-2" max="-2" attributes="0"/>
+                              <EmptySpace max="-2" attributes="0"/>
+                              <Group type="103" groupAlignment="3" attributes="0">
+                                  <Component id="dec7" alignment="3" min="-2" max="-2" attributes="0"/>
+                                  <Component id="nov7" alignment="3" min="-2" max="-2" attributes="0"/>
+                              </Group>
+                          </Group>
+                      </Group>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Component id="undec8" min="-2" max="-2" attributes="0"/>
+                  </Group>
+              </Group>
+              <EmptySpace type="unrelated" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="jButton1" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="jButton2" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace max="-2" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+  </Layout>
+  <SubComponents>
+    <Component class="javax.swing.JLabel" name="jLabel1">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Segoe UI Semilight" size="12" style="1"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="S&#xe9;timo"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="jLabel2">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Segoe UI Semilight" size="12" style="1"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="Octavo"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="jLabel3">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Segoe UI Semilight" size="12" style="1"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="Noveno"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="jLabel4">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Segoe UI Semilight" size="12" style="1"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="D&#xe9;cimo"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="jLabel5">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Segoe UI Semilight" size="12" style="1"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="Und&#xe9;cimo"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="jLabel6">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Segoe UI Semilight" size="12" style="1"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="Duodecimo"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JButton" name="jButton2">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Segoe UI Semilight" size="12" style="1"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="Atras"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="jButton2ActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JToggleButton" name="seven1">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Segoe UI Semilight" size="12" style="1"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="7-1"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JToggleButton" name="seven2">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Segoe UI Semilight" size="12" style="1"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="7-2"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JToggleButton" name="seven3">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Segoe UI Semilight" size="12" style="1"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="7-3"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JToggleButton" name="seven4">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Segoe UI Semilight" size="12" style="1"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="7-4"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JToggleButton" name="oct1">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Segoe UI Semilight" size="12" style="1"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="8-1"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JToggleButton" name="oct2">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Segoe UI Semilight" size="12" style="1"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="8-2"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JToggleButton" name="oct3">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Segoe UI Semilight" size="12" style="1"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="8-3"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JToggleButton" name="oct4">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Segoe UI Semilight" size="12" style="1"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="8-4"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JToggleButton" name="oct5">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Segoe UI Semilight" size="12" style="1"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="8-5"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JToggleButton" name="oct6">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Segoe UI Semilight" size="12" style="1"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="8-6"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JToggleButton" name="nov1">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Segoe UI Semilight" size="12" style="1"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="9-1"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JToggleButton" name="nov2">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Segoe UI Semilight" size="12" style="1"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="9-2"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JToggleButton" name="nov3">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Segoe UI Semilight" size="12" style="1"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="9-3"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JToggleButton" name="nov4">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Segoe UI Semilight" size="12" style="1"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="9-4"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JToggleButton" name="nov5">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Segoe UI Semilight" size="12" style="1"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="9-5"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JToggleButton" name="nov6">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Segoe UI Semilight" size="12" style="1"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="9-6"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JToggleButton" name="nov7">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Segoe UI Semilight" size="12" style="1"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="9-7"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JToggleButton" name="dec1">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Segoe UI Semilight" size="12" style="1"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="10-1"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JToggleButton" name="dec2">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Segoe UI Semilight" size="12" style="1"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="10-2"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JToggleButton" name="dec3">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Segoe UI Semilight" size="12" style="1"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="10-3"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JToggleButton" name="dec4">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Segoe UI Semilight" size="12" style="1"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="10-4"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JToggleButton" name="dec7">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Segoe UI Semilight" size="12" style="1"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="10-7"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JToggleButton" name="dec6">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Segoe UI Semilight" size="12" style="1"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="10-6"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JToggleButton" name="dec5">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Segoe UI Semilight" size="12" style="1"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="10-5"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JToggleButton" name="undec1">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Segoe UI Semilight" size="12" style="1"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="11-1"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JToggleButton" name="undec2">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Segoe UI Semilight" size="12" style="1"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="11-2"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JToggleButton" name="undec3">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Segoe UI Semilight" size="12" style="1"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="11-3"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JToggleButton" name="undec4">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Segoe UI Semilight" size="12" style="1"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="11-4"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JToggleButton" name="undec7">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Segoe UI Semilight" size="12" style="1"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="11-7"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JToggleButton" name="undec6">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Segoe UI Semilight" size="12" style="1"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="11-6"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JToggleButton" name="undec5">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Segoe UI Semilight" size="12" style="1"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="11-5"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JToggleButton" name="duo1">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Segoe UI Semilight" size="12" style="1"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="12-1"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JToggleButton" name="duo2">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Segoe UI Semilight" size="12" style="1"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="12-3"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JToggleButton" name="duo3">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Segoe UI Semilight" size="12" style="1"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="12-4"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JToggleButton" name="duo4">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Segoe UI Semilight" size="12" style="1"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="12-5"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JToggleButton" name="undec8">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Segoe UI Semilight" size="12" style="1"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="11-8"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JButton" name="jButton1">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Segoe UI Semilight" size="12" style="1"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="Continuar"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="jButton1ActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JLabel" name="jLabel7">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Segoe UI Semilight" size="12" style="1"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="Seleccione las secciones, que imparte clases y presione continuar."/>
+      </Properties>
+    </Component>
+  </SubComponents>
+</Form>
